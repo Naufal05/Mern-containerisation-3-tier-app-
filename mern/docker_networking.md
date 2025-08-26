@@ -2,6 +2,25 @@ Docker Networking | Bridge vs Host vs Overlay |Secure containers with custom bri
 -----------------------------------------------------------------
 
 
+In this video, you will learn about:
+1. Why you need networking on Docker ?
+2. How does Docker Networking Work ?
+3. What are different types of Networking in Docker ?
+4. Which Networking is default and Out of the Box ?
+5. Play with Docker containers and inspect their Networks
+6. Create a custom bridge network to secure it from other containers
+
+
+0:00 - Introduction to Docker Networking
+01:15 -Why Docker Networking with Example 
+02:50 - Comparing Docker Networking with VM networking
+05:40 - How containers talk to Host in terms of networking ?
+07:15: Default Networking in Docker and What happens without that ?
+09:30: Different types of Networking in Docker ?
+10:40 - Host Networking in Docker
+12:46 - Networking Deep Dive 
+20:30 - Live Demo with Practical Examples
+
 
 3 Tier Application
 1. Frontend
